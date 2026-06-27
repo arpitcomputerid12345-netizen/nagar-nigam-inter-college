@@ -1,0 +1,6 @@
+{
+  "name": "Nagar Nigam Inter College",
+  "description": "Fully responsive and functional official website and administrative management portal for Nagar Nigam Inter College, Taj Ganj, Agra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
